@@ -1,0 +1,67 @@
+MONTHLY PAYROLL REPORT
+-------------------------
+Type : HourlyContractor
+Name : Aarav Swain
+Net Pay : 10000.0
+Bonus : 0
+-------------------------
+Type : HourlyContractor
+Name : Sneha Maurya
+Net Pay : 13200.0
+Bonus : 0
+-------------------------
+Type : HourlyContractor
+Name : Karan Kundra
+Net Pay : 19500.0
+Bonus : 0
+-------------------------
+Type : SalariedEmployee
+Name : Amit Sharma
+Net Pay : 50000.0
+Bonus : 5000.0
+-------------------------
+Type : SalariedEmployee
+Name : Priya Das
+Net Pay : 45000.0
+Bonus : 4500.0
+-------------------------
+Type : SalariedEmployee
+Name : Rahul Verma
+Net Pay : 60000.0
+Bonus : 6000.0
+-------------------------
+Type : SalariedEmployee
+Name : Sneha Patnaik
+Net Pay : 55000.0
+Bonus : 5500.0
+-------------------------
+Type : SalariedEmployee
+Name : Arjun Kumar
+Net Pay : 48000.0
+Bonus : 4800.0
+-------------------------
+Type : SalariedEmployee
+Name : Neha Mishra
+Net Pay : 52000.0
+Bonus : 5200.0
+-------------------------
+Type : SalariedEmployee
+Name : Rohit Sahu
+Net Pay : 47000.0
+Bonus : 4700.0
+-------------------------
+Type : SalariedEmployee
+Name : Ananya Mohanty
+Net Pay : 58000.0
+Bonus : 5800.0
+-------------------------
+Type : SalariedEmployee
+Name : Vikash Nayak
+Net Pay : 49000.0
+Bonus : 4900.0
+-------------------------
+Type : SalariedEmployee
+Name : Pooja Singh
+Net Pay : 53000.0
+Bonus : 5300.0
+-------------------------
